@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+#title{
+    color: black;
+    font-weight: bold;
+}
+
+#startbtn{
+    font-size: 23px;
+    background-color: navy;
+}
+
+#copyright_footer{
+    float: none;
+    width: 100%;
+    bottom:0;
+    position:fixed;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(0, 0, 77);
+    line-height: 30px;
+}
+canvas{
+   border-radius: 10px;
+   border-width: 3px;
+   border-style: solid;
+   border-color: rgb(0, 0, 82); 
+   margin-top: 80px;
+}
